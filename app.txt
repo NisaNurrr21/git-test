@@ -1,1 +1,2 @@
 1. Uygulama basariyla calisiyor
+2. Arayuz tasarimi eklendi
